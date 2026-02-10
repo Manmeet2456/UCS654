@@ -1,5 +1,3 @@
-<img width="584" height="455" alt="download" src="https://github.com/user-attachments/assets/64dcc50d-7a25-4f2b-879c-eb089fb2caf8" /># Learning Probability Density Functions using Data Only
-
 ## Objective
 
 The objective of this assignment is to learn the probability density function (PDF) of a random variable using only data samples. No parametric or analytical form of the distribution is assumed. A Generative Adversarial Network (GAN) is used to model the unknown distribution.
