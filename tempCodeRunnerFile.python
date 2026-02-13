@@ -1,0 +1,6 @@
+import smtplib
+
+server = smtplib.SMTP('smtp.gmail.com', 587)
+server.starttls()
+server.login('library.12.manage@gmail.com', 'fodpzuhxyfmefwge')
+print("LOGIN SUCCESS")
