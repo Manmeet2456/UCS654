@@ -45,7 +45,7 @@ def run_topsis():
         msg.add_attachment(f.read(),maintype='application',subtype='csv',filename=output_name)
 
     server = smtplib.SMTP_SSL('smtp.gmail.com',465)
-    server.login("library.12.manage@gmail.com","bjtftjboclugvzzz")
+    server.login("your@gmail.com","yourpassword")
     server.send_message(msg)
     server.quit()
 
