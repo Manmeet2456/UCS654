@@ -110,12 +110,6 @@ After running the notebook, save your graph image (for example: `model_compariso
 ![Model Comparison Graph](model_comparison.png)
 ```
 
-👉 How to do this:
-
-1. In Colab, right click the graph → Save image.
-2. Upload image file into your GitHub repo.
-3. Keep the same filename in the README.
-
 ---
 
 ## 🏆 Best Model
