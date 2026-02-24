@@ -104,11 +104,7 @@ Predict the **action** taken using simulation parameters.
 
 ## 📈 Result Graph
 
-After running the notebook, save your graph image (for example: `model_comparison.png`) in the GitHub repository and display it here:
-
-```id="img1"
 ![Model Comparison Graph](model_comparison.png)
-```
 
 ---
 
