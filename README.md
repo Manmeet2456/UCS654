@@ -38,14 +38,12 @@ result.csv
 
 This table shows the calculated score and final rank of each conversational model.
 
-<img width="637" height="222" alt="image" src="https://github.com/user-attachments/assets/2a622f59-e853-4eda-8141-ca5275d48516" />
+<img width="631" height="219" alt="image" src="https://github.com/user-attachments/assets/cff5a4fc-7aa8-4afd-8888-650e02713634" />
 
 
 ### ✔ Graph Visualization
 
 The comparison graph generated from TOPSIS scores is shown below:
-
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/201bd121-22da-45f0-a8ea-fc53be81420c" />
 
 
 ![TOPSIS Graph](graph.png)
